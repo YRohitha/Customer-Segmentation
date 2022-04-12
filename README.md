@@ -1,4 +1,4 @@
-# User Segmentation
+# Customer Segmentation
 
 - Description: Retail Customer Segmentation using RFM (Recency, Frequency, Monetary) Marketing model
 
